@@ -30,5 +30,8 @@
   },
   "browserslist": [
     "IE 11"
-  ]
+  ],
+  "bin": {
+    "create-boilerplate": "./generate_app.js"
+  }
 }
